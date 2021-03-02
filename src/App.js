@@ -1,9 +1,9 @@
 import React from "react";
 import Cookies from "js-cookie";
 import Login from "./components/Login";
-
+import Home from "./components/Home";
 const App = () => {
   const token = Cookies.get("spotifyAuthToken");
-  return <div className="app">{token ? <p>Brawo {token}</p> : <Login />}</div>;
+  return <div className="app">{token ? <Home /> : <Login />}</div>;
 };
 export default App;
