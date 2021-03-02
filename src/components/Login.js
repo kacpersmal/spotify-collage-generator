@@ -23,7 +23,7 @@ const Login = () => {
           className="login-form"
         >
           <SpotifyAuth
-            redirectUri="http://localhost:3000/callback"
+            redirectUri="https://kacpersmal.github.io/spotify-collage-generator/callback"
             clientID="1a70ba777fec4ffd9633c0c418bdcf39"
             scopes={[Scopes.userReadPrivate, "user-top-read"]}
           />
