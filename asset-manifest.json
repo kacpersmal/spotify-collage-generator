@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spotify-collage-generator/static/css/main.52c739c7.chunk.css",
-    "main.js": "/spotify-collage-generator/static/js/main.3c957aa1.chunk.js",
-    "main.js.map": "/spotify-collage-generator/static/js/main.3c957aa1.chunk.js.map",
+    "main.js": "/spotify-collage-generator/static/js/main.e0f48af2.chunk.js",
+    "main.js.map": "/spotify-collage-generator/static/js/main.e0f48af2.chunk.js.map",
     "runtime-main.js": "/spotify-collage-generator/static/js/runtime-main.fbeda2d8.js",
     "runtime-main.js.map": "/spotify-collage-generator/static/js/runtime-main.fbeda2d8.js.map",
     "static/css/2.7c510740.chunk.css": "/spotify-collage-generator/static/css/2.7c510740.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.7c510740.chunk.css",
     "static/js/2.d7c409ce.chunk.js",
     "static/css/main.52c739c7.chunk.css",
-    "static/js/main.3c957aa1.chunk.js"
+    "static/js/main.e0f48af2.chunk.js"
   ]
 }
