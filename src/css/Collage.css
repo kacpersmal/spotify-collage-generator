@@ -1,0 +1,15 @@
+.collage-image {
+    width: 10vh;
+    height: 10vh;
+    max-width: 128px;
+    max-height: 128px;
+    min-height: 64px;
+    min-width: 64px;
+}
+
+.collage-box{
+   display: grid;
+   width: 100%;
+   border: 1px solid #1db954;
+   z-index: 100;
+}    

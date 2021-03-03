@@ -1,8 +1,12 @@
 .login-form {
     background-color: #53535350;
     padding: 5% 5% 5% 5%;
+    border: 1px solid #1db954;
     border-radius: 30px;
+}
 
+h1 {
+  color:#1db954;
 }
 
 @media only screen and (max-width: 600px) {
