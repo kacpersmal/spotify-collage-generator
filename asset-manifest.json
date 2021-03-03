@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/spotify-collage-generator/static/css/main.52c739c7.chunk.css",
-    "main.js": "/spotify-collage-generator/static/js/main.e0f48af2.chunk.js",
-    "main.js.map": "/spotify-collage-generator/static/js/main.e0f48af2.chunk.js.map",
-    "runtime-main.js": "/spotify-collage-generator/static/js/runtime-main.fbeda2d8.js",
-    "runtime-main.js.map": "/spotify-collage-generator/static/js/runtime-main.fbeda2d8.js.map",
+    "main.css": "/spotify-collage-generator/static/css/main.400f96a3.chunk.css",
+    "main.js": "/spotify-collage-generator/static/js/main.e2340a13.chunk.js",
+    "main.js.map": "/spotify-collage-generator/static/js/main.e2340a13.chunk.js.map",
+    "runtime-main.js": "/spotify-collage-generator/static/js/runtime-main.55b83782.js",
+    "runtime-main.js.map": "/spotify-collage-generator/static/js/runtime-main.55b83782.js.map",
     "static/css/2.7c510740.chunk.css": "/spotify-collage-generator/static/css/2.7c510740.chunk.css",
-    "static/js/2.d7c409ce.chunk.js": "/spotify-collage-generator/static/js/2.d7c409ce.chunk.js",
-    "static/js/2.d7c409ce.chunk.js.map": "/spotify-collage-generator/static/js/2.d7c409ce.chunk.js.map",
-    "static/js/3.2539fde7.chunk.js": "/spotify-collage-generator/static/js/3.2539fde7.chunk.js",
-    "static/js/3.2539fde7.chunk.js.map": "/spotify-collage-generator/static/js/3.2539fde7.chunk.js.map",
+    "static/js/2.5dff93cb.chunk.js": "/spotify-collage-generator/static/js/2.5dff93cb.chunk.js",
+    "static/js/2.5dff93cb.chunk.js.map": "/spotify-collage-generator/static/js/2.5dff93cb.chunk.js.map",
+    "static/js/3.426e1da4.chunk.js": "/spotify-collage-generator/static/js/3.426e1da4.chunk.js",
+    "static/js/3.426e1da4.chunk.js.map": "/spotify-collage-generator/static/js/3.426e1da4.chunk.js.map",
     "index.html": "/spotify-collage-generator/index.html",
     "static/css/2.7c510740.chunk.css.map": "/spotify-collage-generator/static/css/2.7c510740.chunk.css.map",
-    "static/css/main.52c739c7.chunk.css.map": "/spotify-collage-generator/static/css/main.52c739c7.chunk.css.map",
-    "static/js/2.d7c409ce.chunk.js.LICENSE.txt": "/spotify-collage-generator/static/js/2.d7c409ce.chunk.js.LICENSE.txt"
+    "static/css/main.400f96a3.chunk.css.map": "/spotify-collage-generator/static/css/main.400f96a3.chunk.css.map",
+    "static/js/2.5dff93cb.chunk.js.LICENSE.txt": "/spotify-collage-generator/static/js/2.5dff93cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fbeda2d8.js",
+    "static/js/runtime-main.55b83782.js",
     "static/css/2.7c510740.chunk.css",
-    "static/js/2.d7c409ce.chunk.js",
-    "static/css/main.52c739c7.chunk.css",
-    "static/js/main.e0f48af2.chunk.js"
+    "static/js/2.5dff93cb.chunk.js",
+    "static/css/main.400f96a3.chunk.css",
+    "static/js/main.e2340a13.chunk.js"
   ]
 }
